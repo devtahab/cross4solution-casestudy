@@ -10,6 +10,18 @@ Cross4Solution için hazırladığım case study çalışmasında, TheMealDB API
 ## Proje Kurulumu
 
 ```sh
+git clone https://github.com/devtahab/cross4solution-casestudy.git
+```
+
+###
+
+```sh
+cd cross4solution-casestudy
+```
+
+###
+
+```sh
 npm install
 ```
 
