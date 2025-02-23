@@ -1,29 +1,20 @@
-# restaurant-menu-app
+# restaurant-menu-app / Cross4Solution Case-Study
 
-This template should help get you started developing with Vue 3 in Vite.
+## Proje Açıklaması
 
-## Recommended IDE Setup
+Cross4Solution için Case-Study çalışmamda, themealdb API'sinden aldığım verilerle Vue.js, Vuex ve Vue Router teknolojilerini kullanarak, bir İtalyan Restorantı için, Case-Study çalışmasında istenen görevleri yerine getirecek şekilde bir menü uygulaması geliştirdim.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## Önemli Notlar
+- themealdb API'sinde ürünlere dair herhangi bir fiyat bilgisi olmamasından ötürü ürün fiyatları rastgele şekilde oluşturuluyor.
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
+## Proje Kurulumu
 
 ```sh
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+### 
 
 ```sh
 npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
 ```
