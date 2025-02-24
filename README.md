@@ -6,6 +6,7 @@ Cross4Solution için hazırladığım case study çalışmasında, TheMealDB API
 
 ## Önemli Notlar
 - themealdb API'sinde ürünlere dair herhangi bir fiyat bilgisi olmamasından ötürü ürün fiyatları rastgele şekilde oluşturuluyor.
+- Proje Kurulumunu yapıp uygulamayı çalıştırdıktan sonra http://localhost:5173/ adresinde uygulamayı görebilirsiniz.
 
 ## Proje Kurulumu
 
