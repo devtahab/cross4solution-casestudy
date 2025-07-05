@@ -11,13 +11,13 @@ Bu projede, TheMealDB API'sinden aldığım verilerle, Vue.js, Vuex ve Vue Route
 ## Proje Kurulumu
 
 ```sh
-git clone https://github.com/devtahab/cross4solution-casestudy.git
+git clone https://github.com/devtahab/italian-restaurant-menu-app.git
 ```
 
 ###
 
 ```sh
-cd cross4solution-casestudy
+cd italian-restaurant-menu-app
 ```
 
 ###
